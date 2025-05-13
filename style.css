@@ -1,0 +1,158 @@
+
+h1{
+    text-align: center;
+    height: 74px;
+    
+}
+
+
+
+
+
+
+
+
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+div{
+width: 435px;
+height: 396px;
+
+}
+
+h2 {
+    width: 433px;
+    height: 113px;
+    font-size: 36px;
+}
+p{
+    color: rgb(228, 228, 228);
+    font-size: 18px;
+    width: 334px;
+    height: 121px;
+}
+
+button{
+    width: 201px;
+    height: 56px;
+    border-radius: 55px;
+    color: rgb(60, 60, 250);
+  border: 1px solid rgb(60, 60, 236);
+
+}
+
+.a{
+   margin: auto;
+   margin-top: 150px;
+   font-size: 36px;
+   height: 56px;
+}
+
+
+.san{
+    width: 380px;
+    height: 516px;
+   background-color: rgb(245, 246, 247);
+}
+h3{
+    font-size: 30px;
+}
+.kim{
+background: none;
+border: none;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.man{
+    display: flex;
+   gap: 100px;
+    
+    
+}
+
+.ozim{
+   margin-top: 225px; 
+   margin-left: 650px;
+}
+
+
+
+
+
+
+.r{
+    background-color: #0004ff;
+    height: 400px;
+    width: 1500px;
+   display: flex;
+   padding-top:200px;
+   margin-top: 200px;
+   padding-left: 60px;
+}
+
+
+.w{
+    width:52px;
+    height: 33px;
+}
+
+h4{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
